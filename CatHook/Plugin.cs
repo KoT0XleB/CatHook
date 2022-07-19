@@ -3,10 +3,6 @@ using System.Linq;
 using UnityEngine;
 using MEC;
 using Qurre.API;
-using Qurre.API.Events;
-using Qurre.API.Objects;
-using Qurre.API.Controllers;
-using Qurre.API.Controllers.Items;
 using Qurre;
 
 namespace CatHook
